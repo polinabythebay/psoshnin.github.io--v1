@@ -1,2 +1,0 @@
-psoshnin.github.io
-==================
