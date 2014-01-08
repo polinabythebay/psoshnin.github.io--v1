@@ -37,7 +37,7 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 
 ## License
 
-The MIT License (MIT)
+The [MIT](http://opensource.org/licenses/MIT) License (MIT)
 
 Copyright (c) 2014, Polina Soshnin
 
