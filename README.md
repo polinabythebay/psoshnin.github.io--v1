@@ -1,4 +1,4 @@
-# Blog
+## About
 
 Jekyll powered blog with GitHub pages. 
 
